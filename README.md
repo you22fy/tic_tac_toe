@@ -56,9 +56,11 @@ python python_tic_tac_toe/main.py
   - CPU の挙動を変更して、より強くすることも可能です。(future work)
 
 ## 使用技術
+
 - python 3.11.6
 - tkinter
 - poetry
+- black formatter
 
 ## mermaid 図
 
