@@ -4,6 +4,12 @@
 
 python で作成した GUI で遊べる CPU 対戦三目並べゲームです。
 
+
+
+https://github.com/you22fy/tic_tac_toe/assets/93398385/4efb2675-aaef-4571-b31f-05b5866175af
+
+
+
 ## ディレクトリ構造
 ```
 .
