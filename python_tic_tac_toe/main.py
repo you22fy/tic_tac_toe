@@ -1,12 +1,15 @@
-# main.py
+"""main.py"""
 
 import tkinter as tk
 from app import TicTacToeApp
 
+
 def main():
+    """プログラムのエントリーポイント."""
     root = tk.Tk()
-    app = TicTacToeApp(root)
+    TicTacToeApp(root)
     root.mainloop()
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

@@ -4,6 +4,17 @@
 
 python で作成した GUI で遊べる CPU 対戦三目並べゲームです。
 
+## ディレクトリ構造
+```
+.
+├── README.md
+├── pyproject.toml
+├── python_tic_tac_toe
+│   ├── app.py
+│   ├── logic.py
+│   └── main.py
+└── requirements.txt
+```
 ## 実行方法
 
 このプログラムは`Python 3.11.6`で動作することを確認しています。それ以外のバージョンでの動作は保証しません。
